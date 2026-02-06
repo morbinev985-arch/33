@@ -109,6 +109,7 @@ public class Main {
                 System.out.println("Зарядка завершена. Текущий заряд: " + charge + "%");
             }
             System.out.println("Общее время зарядки: " + minute + " минут");
+            System.out.println();
         }
     }
 }
